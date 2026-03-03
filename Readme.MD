@@ -26,4 +26,4 @@ Repositorio de la clase de Estructura de Datos (EDD-D1). Contiene ejemplos, ejer
 - Visual Studio Code
 
 ## Autor
-Gonzalo Andrés Lucio
+Gonzalo Andrés Lucio - glucio@unipacifico.edu.co
